@@ -1,0 +1,7 @@
+# Comment out rows that you do not want to include in your alphabet
+ABCDEFGHIJKLMNOPQRSTUVXYZ
+ÅÄÖ
+abcdefghijklmnopqrstuvxyz
+åäö
+0123456789
+.,!?
